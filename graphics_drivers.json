@@ -1,14 +1,8 @@
 [
   {
-    "fileName": "wrapper.tzst",
-    "version": "v819-Mali-Optimized",
-    "remoteUrl": "https://github.com/GunaCharanTeja/Winlator-Extras/releases/download/m_g_d/wrapper.tzst",
-    "notes": "Optimized wrapper for Mali GPUs. Fixed black screen in several titles."
-  },
-  {
     "fileName": "leegao_bcn.tzst",
-    "version": "2.0",
+    "version": "Modied Leegao Bcn Layer By Fcharan / WinlatorMali Dev",
     "remoteUrl": "https://github.com/GunaCharanTeja/Winlator-Extras/releases/download/m_g_d/leegao_bcn.tzst",
-    "notes": "Improved BCn texture emulation for Mali devices."
+    "notes": "Better Performance / Stability On Some Devices compared to offical leegao version"
   }
 ]
